@@ -1,0 +1,6 @@
+[submodule "quickstart-calls-directcall-react-native"]
+	path = quickstart-directcall
+	url = git@github.com:sendbird/quickstart-calls-directcall-react-native.git
+[submodule "quickstart-calls-groupcall-react-native"]
+	path = quickstart-groupcall
+	url = git@github.com:sendbird/quickstart-calls-groupcall-react-native.git
