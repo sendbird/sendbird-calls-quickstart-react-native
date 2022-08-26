@@ -1,2 +1,3 @@
-# quickstart-calls-react-native
-Download quickstart apps to try the core features for Sendbird Calls SDK.
+### [Direct Call Quickstart](https://github.com/sendbird/quickstart-calls-directcall-react-native)
+
+### [Group Call Quickstart](https://github.com/sendbird/quickstart-calls-groupcall-react-native)
