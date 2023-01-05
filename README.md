@@ -1,3 +1,3 @@
-### [Direct Call Quickstart](https://github.com/sendbird/quickstart-calls-directcall-react-native)
+### [Direct Call Quickstart](https://github.com/sendbird/sendbird-calls-directcall-quickstart-react-native)
 
-### [Group Call Quickstart](https://github.com/sendbird/quickstart-calls-groupcall-react-native)
+### [Group Call Quickstart](https://github.com/sendbird/sendbird-calls-groupcall-quickstart-react-native)
