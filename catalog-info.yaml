@@ -4,7 +4,7 @@ metadata:
   name: sendbird-calls-quickstart-react-native
   description: Calls quickstart for React-Native
   annotations:
-    github.com/project-slug: sendbird-calls-quickstart-react-native
+    github.com/project-slug: sendbird/sendbird-calls-quickstart-react-native
 spec:
   type: library
   lifecycle: production
